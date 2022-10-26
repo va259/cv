@@ -15,18 +15,6 @@ Looking for a Junior Web Developer Job. Currently I work a lot with business aut
 - Frontend: JS/ES6+, React (basics), HTML/CSS, Bootstrap;  
 - Tools/Dev: REST, GraphQL/Apollo Server, websockets, Git/GitHub, Docker/docker-compose, Swagger, Heroku, AWS (S3, DynamoDB, Lambda, API Gateway, SQS), Serverless framework.
 
-## Code examples
-Find the maximum difference between two adjacent numbers in an array
-```js
-const find = (values) => values.reduce(
-  (acc, current, index) => {
-    if (index === values.length - 1) return acc;
-    const diff = Math.abs(current - values[index + 1]);
-    return diff < acc ? diff : acc;
-  },
-  Infinity);
-```
-
 ## Work experience
 #### JUN 2015 – PRESENT:
 Working on various business ops automation and digital marketing automation projects for a number of clients from USA and EU (freelancing).

@@ -1,1 +1,1 @@
-https://va259.github.io/rsschool-cv/
+https://va259.github.io/cv/
